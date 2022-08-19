@@ -1,9 +1,9 @@
 <img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/killua-hunter-x-hunter.gif" width="820" height="300" />
-<h1 align="center"> ¡Hola Soy Novaks! </h1>
+<h1 align="center"> ¡Hola Soy ImGuille! </h1>
 
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imguille20&label=Profile%20views&color=0e75b6&style=flat" alt="imguille20" /> </p>
 
 - Puedes contactarme por medio de mi correo: **novakssteam@gmail.com**
 
